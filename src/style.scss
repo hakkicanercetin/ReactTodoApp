@@ -1,0 +1,19 @@
+.form
+{
+    display: flex;
+    justify-content: center;
+}
+.form-wrapper
+{
+    display: flex;
+    flex-direction: column;
+}
+.todos
+{
+    text-align: center;
+    
+}
+.todos ul {
+    display: inline-block;
+    text-align: left;
+}
